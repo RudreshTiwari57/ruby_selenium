@@ -1,0 +1,1521 @@
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 11:44:47               step passed
+   nagivate to login page              2023-07-26 11:44:48               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 11:44:48                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 11:45:40               step passed
+   nagivate to login page              2023-07-26 11:45:41               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 11:45:41                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 11:47:29               step passed
+   nagivate to login page              2023-07-26 11:47:31               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 11:47:31                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 14:14:24               step passed
+   nagivate to login page              2023-07-26 14:14:25               step passed
+   verify user is on login page              2023-07-26 14:14:25               step passed
+   to verify user is able to create account   with validate credentials            2023-07-26 14:14:25              Failed          undefined method `click' for #<Registration:0x000001db03145ae8 @driver=#<Selenium::WebDriver::Chrome::Driver:0x44496cf2 browser=:chrome>, @locator=#<Locators:0x000001db02c411f0 @driver=#<Selenium::WebDriver::Chrome::Driver:0x44496cf2 browser=:chrome>, @a=#<INIReader:0x000001db02c41178>>, @_assertion_wrapped=false>
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 14:21:57               step passed
+   nagivate to login page              2023-07-26 14:21:59               step passed
+   verify user is on login page              2023-07-26 14:21:59               step passed
+   to verify user is able to create account   with validate credentials            2023-07-26 14:21:59              Failed          undefined method `click' for #<Registration:0x000002493224e7f8 @driver=#<Selenium::WebDriver::Chrome::Driver:0x9f1c042 browser=:chrome>, @locator=#<Locators:0x000002493163ee68 @driver=#<Selenium::WebDriver::Chrome::Driver:0x9f1c042 browser=:chrome>, @a=#<INIReader:0x000002493163ed00>>, @_assertion_wrapped=false>
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 14:24:34               step passed
+   nagivate to login page              2023-07-26 14:24:35               step passed
+   verify user is on login page              2023-07-26 14:24:35               step passed
+   to verify user is able to create account   with validate credentials            2023-07-26 14:24:35              Failed          undefined method `click' for #<Registration:0x000002250310e698 @driver=#<Selenium::WebDriver::Chrome::Driver:0x3caf5536 browser=:chrome>, @locator=#<Locators:0x00000225026d5b40 @driver=#<Selenium::WebDriver::Chrome::Driver:0x3caf5536 browser=:chrome>, @a=#<INIReader:0x00000225026d5708>>, @_assertion_wrapped=false>
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 14:25:22               step passed
+   nagivate to login page              2023-07-26 14:25:23               step passed
+   verify user is on login page              2023-07-26 14:25:23               step passed
+   to verify user is able to create account   with validate credentials            2023-07-26 14:25:23              Failed          undefined method `click' for #<Registration:0x0000018ad2ba6518 @driver=#<Selenium::WebDriver::Chrome::Driver:0x81ad9a0 browser=:chrome>, @locator=#<Locators:0x0000018ad27d1cf8 @driver=#<Selenium::WebDriver::Chrome::Driver:0x81ad9a0 browser=:chrome>, @a=#<INIReader:0x0000018ad27d1c80>>, @_assertion_wrapped=false>
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 14:26:39               step passed
+   nagivate to login page              2023-07-26 14:26:40               step passed
+   verify user is on login page              2023-07-26 14:26:40               step passed
+   to verify user is able to create account   with validate credentials            2023-07-26 14:26:40              Failed          undefined method `click' for #<Registration:0x0000025904095fb0 @driver=#<Selenium::WebDriver::Chrome::Driver:0x48ec24ac browser=:chrome>, @locator=#<Locators:0x0000025903b51338 @driver=#<Selenium::WebDriver::Chrome::Driver:0x48ec24ac browser=:chrome>, @a=#<INIReader:0x0000025903b512c0>>, @_assertion_wrapped=false>
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 14:28:04               step passed
+   nagivate to login page              2023-07-26 14:28:06               step passed
+   verify user is on login page              2023-07-26 14:28:06               step passed
+   user click on register account radio button              2023-07-26 14:28:06               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 14:28:06                  Passed
+to verify user is able to create account   with validate credentials
+to verify user is able to create account   with validate credentials
+   to verify user is able to create account   with validate credentials                 2023-07-26 16:27:45                  Passed
+to verify user is able to create account   with validate credentials
+   to verify user is able to create account   with validate credentials                 2023-07-26 16:32:01                  Passed
+to verify user is able to create account   with validate credentials
+   to verify user is able to create account   with validate credentials                 2023-07-26 16:32:19                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 16:44:59               step passed
+   nagivate to login page              2023-07-26 16:45:01               step passed
+   verify user is on login page              2023-07-26 16:45:01               step passed
+   user click on register account radio button              2023-07-26 16:45:01               step passed
+   clicks on continue button              2023-07-26 16:45:02               step passed
+   to verify user is able to create account   with validate credentials            2023-07-26 16:45:02              Failed          the page didnot get loaded.
+<"Account Login"> expected but was
+<"Create Account">.
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 16:46:28               step passed
+   nagivate to login page              2023-07-26 16:46:29               step passed
+   verify user is on login page              2023-07-26 16:46:29               step passed
+   user click on register account radio button              2023-07-26 16:46:30               step passed
+   clicks on continue button              2023-07-26 16:46:30               step passed
+   verify user is on registration page              2023-07-26 16:46:30               step passed
+   user enters first name "rudresh"              2023-07-26 16:46:31               step passed
+   user enters last name "tiwari"              2023-07-26 16:46:31               step passed
+   user enters Email "rudresh@gmail.com"              2023-07-26 16:46:31               step passed
+   user enters telephone "344334324334"              2023-07-26 16:46:31               step passed
+   user enters fax "asd"              2023-07-26 16:46:31               step passed
+   user enters company "jio"              2023-07-26 16:46:31               step passed
+   user enters first address "shdhsdksafhadsbfjhsd"              2023-07-26 16:46:32               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnfjnsd"              2023-07-26 16:46:32               step passed
+   user enters city "hfbsdfs"              2023-07-26 16:46:32               step passed
+   user selects state "jsfsdkjf"              2023-07-26 16:46:32               step passed
+   user enters ZIP code "43278468"              2023-07-26 16:46:32               step passed
+   user selects country "india"              2023-07-26 16:46:32               step passed
+   user enters login name "rudra"              2023-07-26 16:46:32               step passed
+   user enters password "rudra"              2023-07-26 16:46:32               step passed
+   user enters confirm password "rudra"              2023-07-26 16:46:32               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 16:46:32                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 17:00:47               step passed
+   nagivate to login page              2023-07-26 17:00:49               step passed
+   verify user is on login page              2023-07-26 17:00:49               step passed
+   user click on register account radio button              2023-07-26 17:00:49               step passed
+   clicks on continue button              2023-07-26 17:00:50               step passed
+   verify user is on registration page              2023-07-26 17:00:50               step passed
+   user enters first name "rudresh"              2023-07-26 17:00:50               step passed
+   user enters last name "tiwari"              2023-07-26 17:00:50               step passed
+   user enters Email "rudresh@gmail.com"              2023-07-26 17:00:51               step passed
+   user enters telephone "344334324334"              2023-07-26 17:00:51               step passed
+   user enters fax "asd"              2023-07-26 17:00:51               step passed
+   user enters company "jio"              2023-07-26 17:00:51               step passed
+   user enters first address "shdhsdksafhadsbfjhsd"              2023-07-26 17:00:51               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnfjnsd"              2023-07-26 17:00:51               step passed
+   user enters city "hfbsdfs"              2023-07-26 17:00:52               step passed
+   to verify user is able to create account   with validate credentials            2023-07-26 17:00:52              Failed          cannot locate element with text: "india"
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 17:03:12               step passed
+   nagivate to login page              2023-07-26 17:03:14               step passed
+   verify user is on login page              2023-07-26 17:03:14               step passed
+   user click on register account radio button              2023-07-26 17:03:14               step passed
+   clicks on continue button              2023-07-26 17:03:15               step passed
+   verify user is on registration page              2023-07-26 17:03:15               step passed
+   user enters first name "rudresh"              2023-07-26 17:03:15               step passed
+   user enters last name "tiwari"              2023-07-26 17:03:15               step passed
+   user enters Email "rudresh@gmail.com"              2023-07-26 17:03:15               step passed
+   user enters telephone "344334324334"              2023-07-26 17:03:16               step passed
+   user enters fax "asd"              2023-07-26 17:03:16               step passed
+   user enters company "jio"              2023-07-26 17:03:16               step passed
+   user enters first address "shdhsdksafhadsbfjhsd"              2023-07-26 17:03:16               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnfjnsd"              2023-07-26 17:03:16               step passed
+   user enters city "hfbsdfs"              2023-07-26 17:03:16               step passed
+   user selects country "India"              2023-07-26 17:03:20               step passed
+   user selects state "Maharashtra"              2023-07-26 17:03:20               step passed
+   user enters ZIP code "43278468"              2023-07-26 17:03:20               step passed
+   user enters login name "rudra"              2023-07-26 17:03:20               step passed
+   user enters password "rudra"              2023-07-26 17:03:20               step passed
+   user enters confirm password "rudra"              2023-07-26 17:03:20               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 17:03:20                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 17:18:54               step passed
+   nagivate to login page              2023-07-26 17:18:56               step passed
+   verify user is on login page              2023-07-26 17:18:56               step passed
+   user click on register account radio button              2023-07-26 17:18:56               step passed
+   clicks on continue button              2023-07-26 17:18:57               step passed
+   verify user is on registration page              2023-07-26 17:18:57               step passed
+   user enters first name "rudresh"              2023-07-26 17:18:57               step passed
+   user enters last name "tiwari"              2023-07-26 17:18:57               step passed
+   user enters Email "rudresh@gmail.com"              2023-07-26 17:18:57               step passed
+   user enters telephone "344334324334"              2023-07-26 17:18:58               step passed
+   user enters fax "asd"              2023-07-26 17:18:58               step passed
+   user enters company "jio"              2023-07-26 17:18:58               step passed
+   user enters first address "shdhsdksafhadsbfjhsd"              2023-07-26 17:18:58               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnfjnsd"              2023-07-26 17:18:58               step passed
+   user enters city "hfbsdfs"              2023-07-26 17:18:58               step passed
+   user selects country "India"              2023-07-26 17:19:02               step passed
+   user selects state "Maharashtra"              2023-07-26 17:19:02               step passed
+   user enters ZIP code "43278468"              2023-07-26 17:19:02               step passed
+   user enters login name "rudra"              2023-07-26 17:19:02               step passed
+   user enters password "rudra"              2023-07-26 17:19:02               step passed
+   user enters confirm password "rudra"              2023-07-26 17:19:02               step passed
+   user checks the check box              2023-07-26 17:19:02               step passed
+   verify user check the check box              2023-07-26 17:19:02               step passed
+   click on continue button              2023-07-26 17:19:02               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 17:19:02                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-26 17:21:16               step passed
+   nagivate to login page              2023-07-26 17:21:18               step passed
+   verify user is on login page              2023-07-26 17:21:18               step passed
+   user click on register account radio button              2023-07-26 17:21:18               step passed
+   clicks on continue button              2023-07-26 17:21:19               step passed
+   verify user is on registration page              2023-07-26 17:21:19               step passed
+   user enters first name "rudreshe"              2023-07-26 17:21:19               step passed
+   user enters last name "tiwarie"              2023-07-26 17:21:19               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-26 17:21:19               step passed
+   user enters telephone "3443334324334"              2023-07-26 17:21:19               step passed
+   user enters fax "asrd"              2023-07-26 17:21:19               step passed
+   user enters company "jrio"              2023-07-26 17:21:20               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-26 17:21:20               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-26 17:21:20               step passed
+   user enters city "hfbsdrfs"              2023-07-26 17:21:20               step passed
+   user selects country "India"              2023-07-26 17:21:23               step passed
+   user selects state "Maharashtra"              2023-07-26 17:21:24               step passed
+   user enters ZIP code "43278468"              2023-07-26 17:21:24               step passed
+   user enters login name "rudrar"              2023-07-26 17:21:24               step passed
+   user enters password "rudrar"              2023-07-26 17:21:24               step passed
+   user enters confirm password "rudrar"              2023-07-26 17:21:24               step passed
+   user checks the check box              2023-07-26 17:21:24               step passed
+   verify user check the check box              2023-07-26 17:21:24               step passed
+   click on continue button              2023-07-26 17:21:24               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-26 17:21:24                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 10:04:33               step passed
+   nagivate to login page              2023-07-27 10:04:35               step passed
+   verify user is on login page              2023-07-27 10:04:35               step passed
+   user click on register account radio button              2023-07-27 10:04:35               step passed
+   clicks on continue button              2023-07-27 10:04:36               step passed
+   verify user is on registration page              2023-07-27 10:04:36               step passed
+   user enters first name "rudreshe"              2023-07-27 10:04:36               step passed
+   user enters last name "tiwarie"              2023-07-27 10:04:36               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 10:04:37               step passed
+   user enters telephone "3443334324334"              2023-07-27 10:04:37               step passed
+   user enters fax "asrd"              2023-07-27 10:04:37               step passed
+   user enters company "jrio"              2023-07-27 10:04:37               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 10:04:37               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 10:04:38               step passed
+   user enters city "hfbsdrfs"              2023-07-27 10:04:38               step passed
+   user selects country "India"              2023-07-27 10:04:41               step passed
+   user selects state "Maharashtra"              2023-07-27 10:04:41               step passed
+   user enters ZIP code "43278468"              2023-07-27 10:04:42               step passed
+   user enters login name "rudrar"              2023-07-27 10:04:42               step passed
+   user enters password "rudrar"              2023-07-27 10:04:42               step passed
+   user enters confirm password "rudrar"              2023-07-27 10:04:42               step passed
+   user checks the check box              2023-07-27 10:04:42               step passed
+   verify user check the check box              2023-07-27 10:04:42               step passed
+   to verify user is able to create account   with validate credentials            2023-07-27 10:04:42              Failed          undefined method `excute_script' for #<Selenium::WebDriver::Chrome::Driver:0x..fd724b87a browser=:chrome>
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 10:21:50               step passed
+   nagivate to login page              2023-07-27 10:21:52               step passed
+   verify user is on login page              2023-07-27 10:21:52               step passed
+   user click on register account radio button              2023-07-27 10:21:52               step passed
+   clicks on continue button              2023-07-27 10:21:53               step passed
+   verify user is on registration page              2023-07-27 10:21:53               step passed
+   user enters first name "rudreshe"              2023-07-27 10:21:53               step passed
+   user enters last name "tiwarie"              2023-07-27 10:21:53               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 10:21:53               step passed
+   user enters telephone "3443334324334"              2023-07-27 10:21:54               step passed
+   user enters fax "asrd"              2023-07-27 10:21:54               step passed
+   user enters company "jrio"              2023-07-27 10:21:54               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 10:21:54               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 10:21:54               step passed
+   user enters city "hfbsdrfs"              2023-07-27 10:21:55               step passed
+   user selects country "India"              2023-07-27 10:21:58               step passed
+   user selects state "Maharashtra"              2023-07-27 10:21:58               step passed
+   user enters ZIP code "43278468"              2023-07-27 10:21:58               step passed
+   user enters login name "rudrar"              2023-07-27 10:21:58               step passed
+   user enters password "rudrar"              2023-07-27 10:21:59               step passed
+   user enters confirm password "rudrar"              2023-07-27 10:21:59               step passed
+   user checks the check box              2023-07-27 10:21:59               step passed
+   verify user check the check box              2023-07-27 10:21:59               step passed
+   click on continue button              2023-07-27 10:21:59               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 10:21:59                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 10:22:37               step passed
+   nagivate to login page              2023-07-27 10:22:38               step passed
+   verify user is on login page              2023-07-27 10:22:38               step passed
+   user click on register account radio button              2023-07-27 10:22:39               step passed
+   clicks on continue button              2023-07-27 10:22:40               step passed
+   verify user is on registration page              2023-07-27 10:22:40               step passed
+   user enters first name "rudreshe"              2023-07-27 10:22:40               step passed
+   user enters last name "tiwarie"              2023-07-27 10:22:40               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 10:22:40               step passed
+   user enters telephone "3443334324334"              2023-07-27 10:22:41               step passed
+   user enters fax "asrd"              2023-07-27 10:22:41               step passed
+   user enters company "jrio"              2023-07-27 10:22:41               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 10:22:41               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 10:22:42               step passed
+   user enters city "hfbsdrfs"              2023-07-27 10:22:42               step passed
+   user selects country "India"              2023-07-27 10:22:45               step passed
+   user selects state "Maharashtra"              2023-07-27 10:22:45               step passed
+   user enters ZIP code "43278468"              2023-07-27 10:22:46               step passed
+   user enters login name "rudrar"              2023-07-27 10:22:46               step passed
+   user enters password "rudrar"              2023-07-27 10:22:46               step passed
+   user enters confirm password "rudrar"              2023-07-27 10:22:46               step passed
+   user checks the check box              2023-07-27 10:22:46               step passed
+   verify user check the check box              2023-07-27 10:22:46               step passed
+   click on continue button              2023-07-27 10:22:46               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 10:22:46                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 10:24:15               step passed
+   nagivate to login page              2023-07-27 10:24:16               step passed
+   verify user is on login page              2023-07-27 10:24:16               step passed
+   user click on register account radio button              2023-07-27 10:24:17               step passed
+   clicks on continue button              2023-07-27 10:24:18               step passed
+   verify user is on registration page              2023-07-27 10:24:18               step passed
+   user enters first name "rudreshe"              2023-07-27 10:24:18               step passed
+   user enters last name "tiwarie"              2023-07-27 10:24:18               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 10:24:18               step passed
+   user enters telephone "3443334324334"              2023-07-27 10:24:19               step passed
+   user enters fax "asrd"              2023-07-27 10:24:19               step passed
+   user enters company "jrio"              2023-07-27 10:24:19               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 10:24:19               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 10:24:19               step passed
+   user enters city "hfbsdrfs"              2023-07-27 10:24:20               step passed
+   user selects country "India"              2023-07-27 10:24:23               step passed
+   user selects state "Maharashtra"              2023-07-27 10:24:23               step passed
+   user enters ZIP code "43278468"              2023-07-27 10:24:23               step passed
+   user enters login name "rudrar"              2023-07-27 10:24:23               step passed
+   user enters password "rudrar"              2023-07-27 10:24:24               step passed
+   user enters confirm password "rudrar"              2023-07-27 10:24:24               step passed
+   user checks the check box              2023-07-27 10:24:24               step passed
+   verify user check the check box              2023-07-27 10:24:24               step passed
+   click on continue button              2023-07-27 10:24:24               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 10:24:24                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 10:27:31               step passed
+   nagivate to login page              2023-07-27 10:27:33               step passed
+   verify user is on login page              2023-07-27 10:27:33               step passed
+   user click on register account radio button              2023-07-27 10:27:33               step passed
+   clicks on continue button              2023-07-27 10:27:34               step passed
+   verify user is on registration page              2023-07-27 10:27:34               step passed
+   user enters first name "rudreshe"              2023-07-27 10:27:34               step passed
+   user enters last name "tiwarie"              2023-07-27 10:27:34               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 10:27:35               step passed
+   user enters telephone "3443334324334"              2023-07-27 10:27:35               step passed
+   user enters fax "asrd"              2023-07-27 10:27:35               step passed
+   user enters company "jrio"              2023-07-27 10:27:35               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 10:27:35               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 10:27:35               step passed
+   user enters city "hfbsdrfs"              2023-07-27 10:27:36               step passed
+   user selects country "India"              2023-07-27 10:27:39               step passed
+   user selects state "Maharashtra"              2023-07-27 10:27:39               step passed
+   user enters ZIP code "43278468"              2023-07-27 10:27:39               step passed
+   user enters login name "rudrar"              2023-07-27 10:27:39               step passed
+   user enters password "rudrar"              2023-07-27 10:27:39               step passed
+   user enters confirm password "rudrar"              2023-07-27 10:27:40               step passed
+   user checks the check box              2023-07-27 10:27:40               step passed
+   verify user check the check box              2023-07-27 10:27:40               step passed
+   click on continue button              2023-07-27 10:27:40               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 10:27:40                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 10:32:15               step passed
+   nagivate to login page              2023-07-27 10:32:17               step passed
+   verify user is on login page              2023-07-27 10:32:17               step passed
+   user click on register account radio button              2023-07-27 10:32:17               step passed
+   clicks on continue button              2023-07-27 10:32:18               step passed
+   verify user is on registration page              2023-07-27 10:32:18               step passed
+   user enters first name "rudreshe"              2023-07-27 10:32:18               step passed
+   user enters last name "tiwarie"              2023-07-27 10:32:19               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 10:32:19               step passed
+   user enters telephone "3443334324334"              2023-07-27 10:32:19               step passed
+   user enters fax "asrd"              2023-07-27 10:32:19               step passed
+   user enters company "jrio"              2023-07-27 10:32:19               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 10:32:19               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 10:32:20               step passed
+   user enters city "hfbsdrfs"              2023-07-27 10:32:20               step passed
+   user selects country "India"              2023-07-27 10:32:23               step passed
+   user selects state "Maharashtra"              2023-07-27 10:32:23               step passed
+   user enters ZIP code "43278468"              2023-07-27 10:32:23               step passed
+   user enters login name "rudrar"              2023-07-27 10:32:23               step passed
+   user enters password "rudrar"              2023-07-27 10:32:24               step passed
+   user enters confirm password "rudrar"              2023-07-27 10:32:24               step passed
+   user checks the check box              2023-07-27 10:32:24               step passed
+   verify user check the check box              2023-07-27 10:32:24               step passed
+   click on continue button              2023-07-27 10:32:34               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 10:32:34                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:12:54               step passed
+   nagivate to login page              2023-07-27 11:12:56               step passed
+   verify user is on login page              2023-07-27 11:12:56               step passed
+   user click on register account radio button              2023-07-27 11:12:56               step passed
+   clicks on continue button              2023-07-27 11:12:57               step passed
+   verify user is on registration page              2023-07-27 11:12:57               step passed
+   user enters first name "rudreshe"              2023-07-27 11:12:57               step passed
+   user enters last name "tiwarie"              2023-07-27 11:12:57               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:12:58               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:12:58               step passed
+   user enters fax "asrd"              2023-07-27 11:12:58               step passed
+   user enters company "jrio"              2023-07-27 11:12:58               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:12:59               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:12:59               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:12:59               step passed
+   user selects country "India"              2023-07-27 11:13:03               step passed
+   user selects state "Maharashtra"              2023-07-27 11:13:03               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:13:03               step passed
+   user enters login name "rudrar"              2023-07-27 11:13:03               step passed
+   user enters password "rudrar"              2023-07-27 11:13:03               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:13:04               step passed
+   user checks the check box              2023-07-27 11:13:04               step passed
+   verify user check the check box              2023-07-27 11:13:04               step passed
+   click on continue button              2023-07-27 11:13:14               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:13:14                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:15:52               step passed
+   nagivate to login page              2023-07-27 11:15:53               step passed
+   verify user is on login page              2023-07-27 11:15:53               step passed
+   user click on register account radio button              2023-07-27 11:15:54               step passed
+   clicks on continue button              2023-07-27 11:15:54               step passed
+   verify user is on registration page              2023-07-27 11:15:54               step passed
+   user enters first name "rudreshe"              2023-07-27 11:15:55               step passed
+   user enters last name "tiwarie"              2023-07-27 11:15:55               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:15:55               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:15:55               step passed
+   user enters fax "asrd"              2023-07-27 11:15:56               step passed
+   user enters company "jrio"              2023-07-27 11:15:56               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:15:56               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:15:56               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:15:56               step passed
+   user selects country "India"              2023-07-27 11:16:00               step passed
+   user selects state "Maharashtra"              2023-07-27 11:16:00               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:16:00               step passed
+   user enters login name "rudrar"              2023-07-27 11:16:00               step passed
+   user enters password "rudrar"              2023-07-27 11:16:01               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:16:01               step passed
+   user checks the check box              2023-07-27 11:16:01               step passed
+   verify user check the check box              2023-07-27 11:16:01               step passed
+   to verify user is able to create account   with validate credentials            2023-07-27 11:16:01              Failed          no such element: Unable to locate element: {"method":"tag name","selector":"//button[@title='Continue']"}
+  (Session info: chrome=115.0.5790.110)
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:17:09               step passed
+   nagivate to login page              2023-07-27 11:17:10               step passed
+   verify user is on login page              2023-07-27 11:17:10               step passed
+   user click on register account radio button              2023-07-27 11:17:10               step passed
+   clicks on continue button              2023-07-27 11:17:11               step passed
+   verify user is on registration page              2023-07-27 11:17:11               step passed
+   user enters first name "rudreshe"              2023-07-27 11:17:11               step passed
+   user enters last name "tiwarie"              2023-07-27 11:17:11               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:17:11               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:17:11               step passed
+   user enters fax "asrd"              2023-07-27 11:17:11               step passed
+   user enters company "jrio"              2023-07-27 11:17:11               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:17:11               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:17:11               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:17:11               step passed
+   user selects country "India"              2023-07-27 11:17:15               step passed
+   user selects state "Maharashtra"              2023-07-27 11:17:15               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:17:15               step passed
+   user enters login name "rudrar"              2023-07-27 11:17:15               step passed
+   user enters password "rudrar"              2023-07-27 11:17:15               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:17:15               step passed
+   user checks the check box              2023-07-27 11:17:15               step passed
+   verify user check the check box              2023-07-27 11:17:15               step passed
+   click on continue button              2023-07-27 11:17:26               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:17:26                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:19:17               step passed
+   nagivate to login page              2023-07-27 11:19:18               step passed
+   verify user is on login page              2023-07-27 11:19:18               step passed
+   user click on register account radio button              2023-07-27 11:19:19               step passed
+   clicks on continue button              2023-07-27 11:19:20               step passed
+   verify user is on registration page              2023-07-27 11:19:20               step passed
+   user enters first name "rudreshe"              2023-07-27 11:19:20               step passed
+   user enters last name "tiwarie"              2023-07-27 11:19:20               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:19:20               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:19:21               step passed
+   user enters fax "asrd"              2023-07-27 11:19:21               step passed
+   user enters company "jrio"              2023-07-27 11:19:21               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:19:21               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:19:21               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:19:22               step passed
+   user selects country "India"              2023-07-27 11:19:25               step passed
+   user selects state "Maharashtra"              2023-07-27 11:19:25               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:19:25               step passed
+   user enters login name "rudrar"              2023-07-27 11:19:26               step passed
+   user enters password "rudrar"              2023-07-27 11:19:26               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:19:26               step passed
+   user checks the check box              2023-07-27 11:19:26               step passed
+   verify user check the check box              2023-07-27 11:19:26               step passed
+   click on continue button              2023-07-27 11:19:26               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:19:26                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:20:20               step passed
+   nagivate to login page              2023-07-27 11:20:21               step passed
+   verify user is on login page              2023-07-27 11:20:21               step passed
+   user click on register account radio button              2023-07-27 11:20:22               step passed
+   clicks on continue button              2023-07-27 11:20:22               step passed
+   verify user is on registration page              2023-07-27 11:20:22               step passed
+   user enters first name "rudreshe"              2023-07-27 11:20:23               step passed
+   user enters last name "tiwarie"              2023-07-27 11:20:23               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:20:23               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:20:23               step passed
+   user enters fax "asrd"              2023-07-27 11:20:23               step passed
+   user enters company "jrio"              2023-07-27 11:20:24               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:20:24               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:20:24               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:20:24               step passed
+   user selects country "India"              2023-07-27 11:20:28               step passed
+   user selects state "Maharashtra"              2023-07-27 11:20:28               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:20:28               step passed
+   user enters login name "rudrar"              2023-07-27 11:20:28               step passed
+   user enters password "rudrar"              2023-07-27 11:20:28               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:20:28               step passed
+   user checks the check box              2023-07-27 11:20:29               step passed
+   verify user check the check box              2023-07-27 11:20:29               step passed
+   click on continue button              2023-07-27 11:20:29               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:20:29                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:21:59               step passed
+   nagivate to login page              2023-07-27 11:22:01               step passed
+   verify user is on login page              2023-07-27 11:22:01               step passed
+   user click on register account radio button              2023-07-27 11:22:01               step passed
+   clicks on continue button              2023-07-27 11:22:02               step passed
+   verify user is on registration page              2023-07-27 11:22:02               step passed
+   user enters first name "rudreshe"              2023-07-27 11:22:02               step passed
+   user enters last name "tiwarie"              2023-07-27 11:22:02               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:22:02               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:22:02               step passed
+   user enters fax "asrd"              2023-07-27 11:22:03               step passed
+   user enters company "jrio"              2023-07-27 11:22:03               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:22:03               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:22:03               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:22:03               step passed
+   user selects country "India"              2023-07-27 11:22:07               step passed
+   user selects state "Maharashtra"              2023-07-27 11:22:07               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:22:07               step passed
+   user enters login name "rudrar"              2023-07-27 11:22:07               step passed
+   user enters password "rudrar"              2023-07-27 11:22:07               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:22:08               step passed
+   user checks the check box              2023-07-27 11:22:08               step passed
+   verify user check the check box              2023-07-27 11:22:08               step passed
+   click on continue button              2023-07-27 11:22:08               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:22:08                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:22:49               step passed
+   nagivate to login page              2023-07-27 11:22:51               step passed
+   verify user is on login page              2023-07-27 11:22:51               step passed
+   user click on register account radio button              2023-07-27 11:22:51               step passed
+   clicks on continue button              2023-07-27 11:22:52               step passed
+   verify user is on registration page              2023-07-27 11:22:52               step passed
+   user enters first name "rudreshe"              2023-07-27 11:22:53               step passed
+   user enters last name "tiwarie"              2023-07-27 11:22:53               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:22:53               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:22:53               step passed
+   user enters fax "asrd"              2023-07-27 11:22:53               step passed
+   user enters company "jrio"              2023-07-27 11:22:54               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:22:54               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:22:54               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:22:54               step passed
+   user selects country "India"              2023-07-27 11:22:58               step passed
+   user selects state "Maharashtra"              2023-07-27 11:22:58               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:22:58               step passed
+   user enters login name "rudrar"              2023-07-27 11:22:58               step passed
+   user enters password "rudrar"              2023-07-27 11:22:58               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:22:59               step passed
+   user checks the check box              2023-07-27 11:22:59               step passed
+   verify user check the check box              2023-07-27 11:22:59               step passed
+   click on continue button              2023-07-27 11:22:59               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:22:59                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:24:23               step passed
+   nagivate to login page              2023-07-27 11:24:24               step passed
+   verify user is on login page              2023-07-27 11:24:25               step passed
+   user click on register account radio button              2023-07-27 11:24:25               step passed
+   clicks on continue button              2023-07-27 11:24:26               step passed
+   verify user is on registration page              2023-07-27 11:24:26               step passed
+   user enters first name "rudreshe"              2023-07-27 11:24:26               step passed
+   user enters last name "tiwarie"              2023-07-27 11:24:26               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:24:26               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:24:27               step passed
+   user enters fax "asrd"              2023-07-27 11:24:27               step passed
+   user enters company "jrio"              2023-07-27 11:24:27               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:24:27               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:24:28               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:24:28               step passed
+   user selects country "India"              2023-07-27 11:24:31               step passed
+   user selects state "Maharashtra"              2023-07-27 11:24:31               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:24:32               step passed
+   user enters login name "rudrar"              2023-07-27 11:24:32               step passed
+   user enters password "rudrar"              2023-07-27 11:24:32               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:24:32               step passed
+   user checks the check box              2023-07-27 11:24:32               step passed
+   verify user check the check box              2023-07-27 11:24:32               step passed
+   click on continue button              2023-07-27 11:24:32               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:24:32                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:26:22               step passed
+   nagivate to login page              2023-07-27 11:26:24               step passed
+   verify user is on login page              2023-07-27 11:26:24               step passed
+   user click on register account radio button              2023-07-27 11:26:24               step passed
+   clicks on continue button              2023-07-27 11:26:25               step passed
+   verify user is on registration page              2023-07-27 11:26:25               step passed
+   user enters first name "rudreshe"              2023-07-27 11:26:25               step passed
+   user enters last name "tiwarie"              2023-07-27 11:26:25               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:26:26               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:26:26               step passed
+   user enters fax "asrd"              2023-07-27 11:26:26               step passed
+   user enters company "jrio"              2023-07-27 11:26:26               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:26:27               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:26:27               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:26:27               step passed
+   user selects country "India"              2023-07-27 11:26:30               step passed
+   user selects state "Maharashtra"              2023-07-27 11:26:31               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:26:31               step passed
+   user enters login name "rudrar"              2023-07-27 11:26:31               step passed
+   user enters password "rudrar"              2023-07-27 11:26:31               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:26:31               step passed
+   user checks the check box              2023-07-27 11:26:31               step passed
+   verify user check the check box              2023-07-27 11:26:31               step passed
+   click on continue button              2023-07-27 11:26:31               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:26:31                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:27:17               step passed
+   nagivate to login page              2023-07-27 11:27:18               step passed
+   verify user is on login page              2023-07-27 11:27:18               step passed
+   user click on register account radio button              2023-07-27 11:27:18               step passed
+   clicks on continue button              2023-07-27 11:27:19               step passed
+   verify user is on registration page              2023-07-27 11:27:19               step passed
+   user enters first name "rudreshe"              2023-07-27 11:27:20               step passed
+   user enters last name "tiwarie"              2023-07-27 11:27:20               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:27:20               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:27:20               step passed
+   user enters fax "asrd"              2023-07-27 11:27:21               step passed
+   user enters company "jrio"              2023-07-27 11:27:21               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:27:21               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:27:21               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:27:21               step passed
+   user selects country "India"              2023-07-27 11:27:25               step passed
+   user selects state "Maharashtra"              2023-07-27 11:27:25               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:27:25               step passed
+   user enters login name "rudrar"              2023-07-27 11:27:25               step passed
+   user enters password "rudrar"              2023-07-27 11:27:26               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:27:26               step passed
+   user checks the check box              2023-07-27 11:27:26               step passed
+   verify user check the check box              2023-07-27 11:27:26               step passed
+   click on continue button              2023-07-27 11:27:26               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:27:26                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:28:55               step passed
+   nagivate to login page              2023-07-27 11:28:56               step passed
+   verify user is on login page              2023-07-27 11:28:56               step passed
+   user click on register account radio button              2023-07-27 11:28:57               step passed
+   clicks on continue button              2023-07-27 11:28:58               step passed
+   verify user is on registration page              2023-07-27 11:28:58               step passed
+   user enters first name "rudreshe"              2023-07-27 11:28:58               step passed
+   user enters last name "tiwarie"              2023-07-27 11:28:58               step passed
+   user enters Email "rudreserh@gmail.com"              2023-07-27 11:28:58               step passed
+   user enters telephone "3443334324334"              2023-07-27 11:28:59               step passed
+   user enters fax "asrd"              2023-07-27 11:28:59               step passed
+   user enters company "jrio"              2023-07-27 11:28:59               step passed
+   user enters first address "shdhsdksafhradsbfjhsd"              2023-07-27 11:28:59               step passed
+   user enters second address  "dsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:28:59               step passed
+   user enters city "hfbsdrfs"              2023-07-27 11:29:00               step passed
+   user selects country "India"              2023-07-27 11:29:03               step passed
+   user selects state "Maharashtra"              2023-07-27 11:29:03               step passed
+   user enters ZIP code "43278468"              2023-07-27 11:29:03               step passed
+   user enters login name "rudrar"              2023-07-27 11:29:03               step passed
+   user enters password "rudrar"              2023-07-27 11:29:04               step passed
+   user enters confirm password "rudrar"              2023-07-27 11:29:04               step passed
+   user checks the check box              2023-07-27 11:29:04               step passed
+   verify user check the check box              2023-07-27 11:29:04               step passed
+   click on continue button              2023-07-27 11:29:05               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:29:05                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword                 2023-07-27 11:48:18                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 11:49:29               step passed
+   nagivate to login page              2023-07-27 11:49:31               step passed
+   verify user is on login page              2023-07-27 11:49:31               step passed
+   user click on register account radio button              2023-07-27 11:49:31               step passed
+   clicks on continue button              2023-07-27 11:49:31               step passed
+   verify user is on registration page              2023-07-27 11:49:31               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:49:31               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:49:32               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:49:32               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:49:32               step passed
+   user enters fax "asdrd"              2023-07-27 11:49:32               step passed
+   user enters company "jrido"              2023-07-27 11:49:32               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:49:32               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:49:32               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:49:32               step passed
+   user selects country "India"              2023-07-27 11:49:35               step passed
+   user selects state "Maharashtra"              2023-07-27 11:49:35               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:49:35               step passed
+   user enters login name "rudwar"              2023-07-27 11:49:35               step passed
+   user enters password "rudar"              2023-07-27 11:49:36               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:49:36               step passed
+   user checks the check box              2023-07-27 11:49:36               step passed
+   verify user check the check box              2023-07-27 11:49:36               step passed
+   click on continue button              2023-07-27 11:49:36               step passed
+   verify user get password mismatch error              2023-07-27 11:49:36               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword                 2023-07-27 11:49:36                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 11:49:59               step passed
+   nagivate to login page              2023-07-27 11:50:01               step passed
+   verify user is on login page              2023-07-27 11:50:01               step passed
+   user click on register account radio button              2023-07-27 11:50:01               step passed
+   clicks on continue button              2023-07-27 11:50:01               step passed
+   verify user is on registration page              2023-07-27 11:50:01               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:50:01               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:50:02               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:50:02               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:50:02               step passed
+   user enters fax "asdrd"              2023-07-27 11:50:02               step passed
+   user enters company "jrido"              2023-07-27 11:50:02               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:50:02               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:50:02               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:50:02               step passed
+   user selects country "India"              2023-07-27 11:50:05               step passed
+   user selects state "Maharashtra"              2023-07-27 11:50:05               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:50:05               step passed
+   user enters login name "rudwar"              2023-07-27 11:50:05               step passed
+   user enters password "rudar"              2023-07-27 11:50:06               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:50:06               step passed
+   user checks the check box              2023-07-27 11:50:06               step passed
+   verify user check the check box              2023-07-27 11:50:06               step passed
+   click on continue button              2023-07-27 11:50:07               step passed
+   verify user get password mismatch error              2023-07-27 11:50:07               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword                 2023-07-27 11:50:07                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 11:50:26               step passed
+   nagivate to login page              2023-07-27 11:50:27               step passed
+   verify user is on login page              2023-07-27 11:50:27               step passed
+   user click on register account radio button              2023-07-27 11:50:27               step passed
+   clicks on continue button              2023-07-27 11:50:28               step passed
+   verify user is on registration page              2023-07-27 11:50:28               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:50:28               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:50:28               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:50:28               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:50:28               step passed
+   user enters fax "asdrd"              2023-07-27 11:50:28               step passed
+   user enters company "jrido"              2023-07-27 11:50:28               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:50:28               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:50:28               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:50:28               step passed
+   user selects country "India"              2023-07-27 11:50:32               step passed
+   user selects state "Maharashtra"              2023-07-27 11:50:32               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:50:32               step passed
+   user enters login name "rudwar"              2023-07-27 11:50:32               step passed
+   user enters password "rudar"              2023-07-27 11:50:32               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:50:32               step passed
+   user checks the check box              2023-07-27 11:50:32               step passed
+   verify user check the check box              2023-07-27 11:50:32               step passed
+   click on continue button              2023-07-27 11:50:33               step passed
+   verify user get password mismatch error              2023-07-27 11:50:33               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword                 2023-07-27 11:50:33                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 11:54:25               step passed
+   nagivate to login page              2023-07-27 11:54:27               step passed
+   verify user is on login page              2023-07-27 11:54:27               step passed
+   user click on register account radio button              2023-07-27 11:54:27               step passed
+   clicks on continue button              2023-07-27 11:54:28               step passed
+   verify user is on registration page              2023-07-27 11:54:28               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:54:28               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:54:28               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:54:28               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:54:28               step passed
+   user enters fax "asdrd"              2023-07-27 11:54:28               step passed
+   user enters company "jrido"              2023-07-27 11:54:28               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:54:28               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:54:28               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:54:28               step passed
+   user selects country "India"              2023-07-27 11:54:32               step passed
+   user selects state "Maharashtra"              2023-07-27 11:54:32               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:54:32               step passed
+   user enters login name "rudwar"              2023-07-27 11:54:32               step passed
+   user enters password "rudar"              2023-07-27 11:54:32               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:54:32               step passed
+   user checks the check box              2023-07-27 11:54:32               step passed
+   verify user check the check box              2023-07-27 11:54:32               step passed
+   click on continue button              2023-07-27 11:54:33               step passed
+   verify user get password mismatch error              2023-07-27 11:54:33               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword                 2023-07-27 11:54:33                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 11:55:16               step passed
+   nagivate to login page              2023-07-27 11:55:17               step passed
+   verify user is on login page              2023-07-27 11:55:17               step passed
+   user click on register account radio button              2023-07-27 11:55:17               step passed
+   clicks on continue button              2023-07-27 11:55:18               step passed
+   verify user is on registration page              2023-07-27 11:55:18               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:55:18               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:55:18               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:55:18               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:55:18               step passed
+   user enters fax "asdrd"              2023-07-27 11:55:18               step passed
+   user enters company "jrido"              2023-07-27 11:55:18               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:55:18               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:55:18               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:55:18               step passed
+   user selects country "India"              2023-07-27 11:55:22               step passed
+   user selects state "Maharashtra"              2023-07-27 11:55:22               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:55:22               step passed
+   user enters login name "rudwar"              2023-07-27 11:55:22               step passed
+   user enters password "rudar"              2023-07-27 11:55:22               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:55:22               step passed
+   user checks the check box              2023-07-27 11:55:22               step passed
+   verify user check the check box              2023-07-27 11:55:22               step passed
+   click on continue button              2023-07-27 11:55:23               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword            2023-07-27 11:55:23              Failed          invalid username and password.
+<"Password confirmation does not match password!"> expected but was
+<"×\n" + "Password confirmation does not match password!">.
+
+diff:
++ ×
+  Password confirmation does not match password!
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 11:56:23               step passed
+   nagivate to login page              2023-07-27 11:56:24               step passed
+   verify user is on login page              2023-07-27 11:56:24               step passed
+   user click on register account radio button              2023-07-27 11:56:24               step passed
+   clicks on continue button              2023-07-27 11:56:25               step passed
+   verify user is on registration page              2023-07-27 11:56:25               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:56:25               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:56:25               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:56:25               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:56:25               step passed
+   user enters fax "asdrd"              2023-07-27 11:56:25               step passed
+   user enters company "jrido"              2023-07-27 11:56:25               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:56:25               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:56:25               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:56:25               step passed
+   user selects country "India"              2023-07-27 11:56:29               step passed
+   user selects state "Maharashtra"              2023-07-27 11:56:29               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:56:29               step passed
+   user enters login name "rudwar"              2023-07-27 11:56:29               step passed
+   user enters password "rudar"              2023-07-27 11:56:29               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:56:29               step passed
+   user checks the check box              2023-07-27 11:56:29               step passed
+   verify user check the check box              2023-07-27 11:56:29               step passed
+   click on continue button              2023-07-27 11:56:30               step passed
+   verify user get password mismatch error              2023-07-27 11:56:30               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword                 2023-07-27 11:56:30                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 11:57:53               step passed
+   nagivate to login page              2023-07-27 11:57:54               step passed
+   verify user is on login page              2023-07-27 11:57:54               step passed
+   user click on register account radio button              2023-07-27 11:57:54               step passed
+   clicks on continue button              2023-07-27 11:57:55               step passed
+   verify user is on registration page              2023-07-27 11:57:55               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:57:55               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:57:55               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:57:55               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:57:55               step passed
+   user enters fax "asdrd"              2023-07-27 11:57:55               step passed
+   user enters company "jrido"              2023-07-27 11:57:56               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:57:56               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:57:56               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:57:56               step passed
+   user selects country "India"              2023-07-27 11:57:59               step passed
+   user selects state "Maharashtra"              2023-07-27 11:57:59               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:57:59               step passed
+   user enters login name "rudwar"              2023-07-27 11:57:59               step passed
+   user enters password "rudar"              2023-07-27 11:57:59               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:57:59               step passed
+   user checks the check box              2023-07-27 11:57:59               step passed
+   verify user check the check box              2023-07-27 11:57:59               step passed
+   click on continue button              2023-07-27 11:58:00               step passed
+   verify user get password mismatch error              2023-07-27 11:58:00               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword                 2023-07-27 11:58:00                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 11:59:48               step passed
+   nagivate to login page              2023-07-27 11:59:49               step passed
+   verify user is on login page              2023-07-27 11:59:49               step passed
+   user click on register account radio button              2023-07-27 11:59:49               step passed
+   clicks on continue button              2023-07-27 11:59:50               step passed
+   verify user is on registration page              2023-07-27 11:59:50               step passed
+   user enters first name "ruddreshe"              2023-07-27 11:59:50               step passed
+   user enters last name "tiwdarie"              2023-07-27 11:59:50               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 11:59:50               step passed
+   user enters telephone "34433334324334"              2023-07-27 11:59:50               step passed
+   user enters fax "asdrd"              2023-07-27 11:59:50               step passed
+   user enters company "jrido"              2023-07-27 11:59:51               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 11:59:51               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 11:59:51               step passed
+   user enters city "hfsdrfs"              2023-07-27 11:59:51               step passed
+   user selects country "India"              2023-07-27 11:59:54               step passed
+   user selects state "Maharashtra"              2023-07-27 11:59:54               step passed
+   user enters ZIP code "432782468"              2023-07-27 11:59:54               step passed
+   user enters login name "rudwar"              2023-07-27 11:59:54               step passed
+   user enters password "rudwar"              2023-07-27 11:59:55               step passed
+   user enters confirm password "rudwar"              2023-07-27 11:59:55               step passed
+   user checks the check box              2023-07-27 11:59:55               step passed
+   verify user check the check box              2023-07-27 11:59:55               step passed
+   click on continue button              2023-07-27 11:59:57               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 11:59:57                  Passed
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 12:01:23               step passed
+   nagivate to login page              2023-07-27 12:01:24               step passed
+   verify user is on login page              2023-07-27 12:01:24               step passed
+   user click on register account radio button              2023-07-27 12:01:24               step passed
+   clicks on continue button              2023-07-27 12:01:25               step passed
+   verify user is on registration page              2023-07-27 12:01:25               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:01:26               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:01:26               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:01:26               step passed
+   user enters telephone "344333324334"              2023-07-27 12:01:26               step passed
+   user enters fax "asdsrd"              2023-07-27 12:01:26               step passed
+   user enters company "jrsido"              2023-07-27 12:01:27               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:01:27               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:01:27               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:01:27               step passed
+   user selects country "India"              2023-07-27 12:01:30               step passed
+   user selects state "Maharashtra"              2023-07-27 12:01:31               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:01:31               step passed
+   user enters login name "rudwar"              2023-07-27 12:01:31               step passed
+   user enters password "rudswar"              2023-07-27 12:01:31               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:01:32               step passed
+   user checks the check box              2023-07-27 12:01:32               step passed
+   verify user check the check box              2023-07-27 12:01:32               step passed
+   click on continue button              2023-07-27 12:01:33               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 12:01:33                  Passed
+to verify user get unavaliable login name if login name already exist
+   you are on the home page              2023-07-27 12:10:58               step passed
+   nagivate to login page              2023-07-27 12:11:00               step passed
+   verify user is on login page              2023-07-27 12:11:00               step passed
+   user click on register account radio button              2023-07-27 12:11:00               step passed
+   clicks on continue button              2023-07-27 12:11:01               step passed
+   verify user is on registration page              2023-07-27 12:11:01               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:11:01               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:11:01               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:11:02               step passed
+   user enters telephone "344333324334"              2023-07-27 12:11:02               step passed
+   user enters fax "asdsrd"              2023-07-27 12:11:02               step passed
+   user enters company "jrsido"              2023-07-27 12:11:02               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:11:02               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:11:03               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:11:03               step passed
+   user selects country "India"              2023-07-27 12:11:06               step passed
+   user selects state "Maharashtra"              2023-07-27 12:11:06               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:11:06               step passed
+   user enters login name "rudwar"              2023-07-27 12:11:06               step passed
+   user enters password "rudswar"              2023-07-27 12:11:07               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:11:07               step passed
+   user checks the check box              2023-07-27 12:11:07               step passed
+   verify user check the check box              2023-07-27 12:11:07               step passed
+   click on continue button              2023-07-27 12:11:08               step passed
+   to verify user get unavaliable login name if login name already exist            2023-07-27 12:11:08              Failed          invalid username and password.
+<"×\n" + "Password confirmation does not match password!"> expected but was
+<"×\n" + "This login name is not available. Try different login name!">.
+
+diff:
+  ×
+- Password confirmation does not match password!
++ This login name is not available. Try different login name!
+to verify user get unavaliable login name if login name already exist
+   you are on the home page              2023-07-27 12:13:01               step passed
+   nagivate to login page              2023-07-27 12:13:02               step passed
+   verify user is on login page              2023-07-27 12:13:02               step passed
+   user click on register account radio button              2023-07-27 12:13:02               step passed
+   clicks on continue button              2023-07-27 12:13:03               step passed
+   verify user is on registration page              2023-07-27 12:13:03               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:13:04               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:13:04               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:13:04               step passed
+   user enters telephone "344333324334"              2023-07-27 12:13:04               step passed
+   user enters fax "asdsrd"              2023-07-27 12:13:04               step passed
+   user enters company "jrsido"              2023-07-27 12:13:04               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:13:05               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:13:05               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:13:05               step passed
+   user selects country "India"              2023-07-27 12:13:08               step passed
+   user selects state "Maharashtra"              2023-07-27 12:13:08               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:13:08               step passed
+   user enters login name "rudwar"              2023-07-27 12:13:09               step passed
+   user enters password "rudswar"              2023-07-27 12:13:09               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:13:09               step passed
+   user checks the check box              2023-07-27 12:13:09               step passed
+   verify user check the check box              2023-07-27 12:13:09               step passed
+   click on continue button              2023-07-27 12:13:10               step passed
+   user should get unavaliable loginname error              2023-07-27 12:13:10               step passed
+   to verify user get unavaliable login name if login name already exist                 2023-07-27 12:13:10                  Passed
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 12:19:46               step passed
+   nagivate to login page              2023-07-27 12:19:48               step passed
+   verify user is on login page              2023-07-27 12:19:48               step passed
+   user click on register account radio button              2023-07-27 12:19:48               step passed
+   clicks on continue button              2023-07-27 12:19:49               step passed
+   verify user is on registration page              2023-07-27 12:19:49               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:19:49               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:19:49               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:19:50               step passed
+   user enters telephone "344333324334"              2023-07-27 12:19:50               step passed
+   user enters fax "asdsrd"              2023-07-27 12:19:50               step passed
+   user enters company "jrsido"              2023-07-27 12:19:50               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:19:51               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:19:51               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:19:51               step passed
+   user selects country "India"              2023-07-27 12:19:54               step passed
+   user selects state "Maharashtra"              2023-07-27 12:19:55               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:19:55               step passed
+   user enters login name "rudwar"              2023-07-27 12:19:55               step passed
+   user enters password "rudswar"              2023-07-27 12:19:55               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:19:55               step passed
+   click on continue button              2023-07-27 12:19:56               step passed
+   to verify user get the error if user has not checked the privacy checkbox            2023-07-27 12:19:56              Failed          invalid username and password.
+<"×\n" + "This login name is not available. Try different login name!"> expected but was
+<"×\n" + "Error: You must agree to the Privacy Policy!">.
+
+diff:
+  ×
+- This login name is not available. Try different login name!
++ Error: You must agree to the Privacy Policy!
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 12:20:54               step passed
+   nagivate to login page              2023-07-27 12:20:55               step passed
+   verify user is on login page              2023-07-27 12:20:55               step passed
+   user click on register account radio button              2023-07-27 12:20:56               step passed
+   clicks on continue button              2023-07-27 12:20:57               step passed
+   verify user is on registration page              2023-07-27 12:20:57               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:20:57               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:20:57               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:20:57               step passed
+   user enters telephone "344333324334"              2023-07-27 12:20:57               step passed
+   user enters fax "asdsrd"              2023-07-27 12:20:58               step passed
+   user enters company "jrsido"              2023-07-27 12:20:58               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:20:58               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:20:58               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:20:58               step passed
+   user selects country "India"              2023-07-27 12:21:02               step passed
+   user selects state "Maharashtra"              2023-07-27 12:21:02               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:21:02               step passed
+   user enters login name "rudwar"              2023-07-27 12:21:02               step passed
+   user enters password "rudswar"              2023-07-27 12:21:02               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:21:03               step passed
+   click on continue button              2023-07-27 12:21:04               step passed
+   verify user should get agree privay policy error              2023-07-27 12:21:04               step passed
+   to verify user get the error if user has not checked the privacy checkbox                 2023-07-27 12:21:04                  Passed
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 12:23:18               step passed
+   nagivate to login page              2023-07-27 12:23:20               step passed
+   verify user is on login page              2023-07-27 12:23:20               step passed
+   user click on register account radio button              2023-07-27 12:23:20               step passed
+   clicks on continue button              2023-07-27 12:23:21               step passed
+   verify user is on registration page              2023-07-27 12:23:21               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:23:21               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:23:22               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:23:22               step passed
+   user enters telephone "344333324334"              2023-07-27 12:23:22               step passed
+   user enters fax "asdsrd"              2023-07-27 12:23:22               step passed
+   user enters company "jrsido"              2023-07-27 12:23:23               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:23:23               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:23:23               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:23:23               step passed
+   user selects country "India"              2023-07-27 12:23:27               step passed
+   user selects state "Maharashtra"              2023-07-27 12:23:27               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:23:27               step passed
+   user enters login name "rudwar"              2023-07-27 12:23:27               step passed
+   user enters password "rudswar"              2023-07-27 12:23:27               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:23:28               step passed
+   click on continue button              2023-07-27 12:23:28               step passed
+   verify user should get agree privay policy error              2023-07-27 12:23:28               step passed
+   to verify user get the error if user has not checked the privacy checkbox                 2023-07-27 12:23:28                  Passed
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 12:26:32               step passed
+   nagivate to login page              2023-07-27 12:26:34               step passed
+   verify user is on login page              2023-07-27 12:26:34               step passed
+   user click on register account radio button              2023-07-27 12:26:34               step passed
+   clicks on continue button              2023-07-27 12:26:35               step passed
+   verify user is on registration page              2023-07-27 12:26:35               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:26:36               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:26:36               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:26:36               step passed
+   user enters telephone "344333324334"              2023-07-27 12:26:36               step passed
+   user enters fax "asdsrd"              2023-07-27 12:26:36               step passed
+   user enters company "jrsido"              2023-07-27 12:26:37               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:26:37               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:26:37               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:26:37               step passed
+   user selects country "India"              2023-07-27 12:26:41               step passed
+   user selects state "Maharashtra"              2023-07-27 12:26:41               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:26:41               step passed
+   user enters login name "rudwar"              2023-07-27 12:26:41               step passed
+   user enters password "rudswar"              2023-07-27 12:26:42               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:26:42               step passed
+   click on continue button              2023-07-27 12:26:42               step passed
+   verify user should get agree privay policy error              2023-07-27 12:26:43               step passed
+   to verify user get the error if user has not checked the privacy checkbox                 2023-07-27 12:26:43                  Passed
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 12:32:56               step passed
+   nagivate to login page              2023-07-27 12:32:57               step passed
+   verify user is on login page              2023-07-27 12:32:57               step passed
+   user click on register account radio button              2023-07-27 12:32:58               step passed
+   clicks on continue button              2023-07-27 12:32:59               step passed
+   verify user is on registration page              2023-07-27 12:32:59               step passed
+   user enters first name "ruddrseshe"              2023-07-27 12:32:59               step passed
+   user enters last name "tiswdarie"              2023-07-27 12:32:59               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 12:32:59               step passed
+   user enters telephone "344333324334"              2023-07-27 12:32:59               step passed
+   user enters fax "asdsrd"              2023-07-27 12:33:00               step passed
+   user enters company "jrsido"              2023-07-27 12:33:00               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 12:33:00               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 12:33:00               step passed
+   user enters city "hfsdrfs"              2023-07-27 12:33:00               step passed
+   user selects country "India"              2023-07-27 12:33:03               step passed
+   user selects state "Maharashtra"              2023-07-27 12:33:04               step passed
+   user enters ZIP code "432782468"              2023-07-27 12:33:04               step passed
+   user enters login name "rudwar"              2023-07-27 12:33:04               step passed
+   user enters password "rudswar"              2023-07-27 12:33:04               step passed
+   user enters confirm password "rudswar"              2023-07-27 12:33:04               step passed
+   click on continue button              2023-07-27 12:33:06               step passed
+   verify user should get agree privay policy error              2023-07-27 12:33:06               step passed
+   to verify user get the error if user has not checked the privacy checkbox                 2023-07-27 12:33:06                  Passed
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 14:09:17               step passed
+   nagivate to login page              2023-07-27 14:09:18               step passed
+   verify user is on login page              2023-07-27 14:09:18               step passed
+   user click on register account radio button              2023-07-27 14:09:18               step passed
+   clicks on continue button              2023-07-27 14:09:19               step passed
+   verify user is on registration page              2023-07-27 14:09:19               step passed
+   user enters first name "ruddrseshe"              2023-07-27 14:09:19               step passed
+   user enters last name "tiswdarie"              2023-07-27 14:09:19               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 14:09:19               step passed
+   user enters telephone "344333324334"              2023-07-27 14:09:19               step passed
+   user enters fax "asdsrd"              2023-07-27 14:09:19               step passed
+   user enters company "jrsido"              2023-07-27 14:09:20               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 14:09:20               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 14:09:20               step passed
+   user enters city "hfsdrfs"              2023-07-27 14:09:20               step passed
+   user selects country "India"              2023-07-27 14:09:23               step passed
+   user selects state "Maharashtra"              2023-07-27 14:09:23               step passed
+   user enters ZIP code "432782468"              2023-07-27 14:09:23               step passed
+   user enters login name "rudwar"              2023-07-27 14:09:23               step passed
+   user enters password "rudswar"              2023-07-27 14:09:23               step passed
+   user enters confirm password "rudswar"              2023-07-27 14:09:23               step passed
+   click on continue button              2023-07-27 14:09:24               step passed
+   verify user should get agree privay policy error              2023-07-27 14:09:24               step passed
+   to verify user get the error if user has not checked the privacy checkbox                 2023-07-27 14:09:24                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 14:09:47               step passed
+   nagivate to login page              2023-07-27 14:09:48               step passed
+   verify user is on login page              2023-07-27 14:09:48               step passed
+   user click on register account radio button              2023-07-27 14:09:49               step passed
+   clicks on continue button              2023-07-27 14:09:49               step passed
+   verify user is on registration page              2023-07-27 14:09:49               step passed
+   user enters first name "ruddreshe"              2023-07-27 14:09:49               step passed
+   user enters last name "tiwdarie"              2023-07-27 14:09:49               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 14:09:49               step passed
+   user enters telephone "34433334324334"              2023-07-27 14:09:49               step passed
+   user enters fax "asdrd"              2023-07-27 14:09:50               step passed
+   user enters company "jrido"              2023-07-27 14:09:50               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 14:09:50               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 14:09:50               step passed
+   user enters city "hfsdrfs"              2023-07-27 14:09:50               step passed
+   user selects country "India"              2023-07-27 14:09:53               step passed
+   user selects state "Maharashtra"              2023-07-27 14:09:53               step passed
+   user enters ZIP code "432782468"              2023-07-27 14:09:53               step passed
+   user enters login name "rudwar"              2023-07-27 14:09:53               step passed
+   user enters password "rudar"              2023-07-27 14:09:53               step passed
+   user enters confirm password "rudwar"              2023-07-27 14:09:53               step passed
+   user checks the check box              2023-07-27 14:09:53               step passed
+   verify user check the check box              2023-07-27 14:09:54               step passed
+   click on continue button              2023-07-27 14:09:54               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword            2023-07-27 14:09:54              Failed          invalid username and password.
+<"×\n" + "Password confirmation does not match password!"> expected but was
+<"×\n" + "Error: E-Mail Address is already registered!">.
+
+diff:
+  ×
+- Password confirmation does not match password!
++ Error: E-Mail Address is already registered!
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 14:09:58               step passed
+   nagivate to login page              2023-07-27 14:09:59               step passed
+   verify user is on login page              2023-07-27 14:09:59               step passed
+   user click on register account radio button              2023-07-27 14:09:59               step passed
+   clicks on continue button              2023-07-27 14:10:00               step passed
+   verify user is on registration page              2023-07-27 14:10:00               step passed
+   user enters first name "ruddrseshe"              2023-07-27 14:10:00               step passed
+   user enters last name "tiswdarie"              2023-07-27 14:10:00               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 14:10:00               step passed
+   user enters telephone "344333324334"              2023-07-27 14:10:00               step passed
+   user enters fax "asdsrd"              2023-07-27 14:10:01               step passed
+   user enters company "jrsido"              2023-07-27 14:10:01               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 14:10:01               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 14:10:01               step passed
+   user enters city "hfsdrfs"              2023-07-27 14:10:01               step passed
+   user selects country "India"              2023-07-27 14:10:04               step passed
+   user selects state "Maharashtra"              2023-07-27 14:10:04               step passed
+   user enters ZIP code "432782468"              2023-07-27 14:10:04               step passed
+   user enters login name "rudwar"              2023-07-27 14:10:04               step passed
+   user enters password "rudswar"              2023-07-27 14:10:04               step passed
+   user enters confirm password "rudswar"              2023-07-27 14:10:04               step passed
+   user checks the check box              2023-07-27 14:10:04               step passed
+   verify user check the check box              2023-07-27 14:10:04               step passed
+   click on continue button              2023-07-27 14:10:05               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 14:10:05                  Passed
+to verify user get unavaliable login name if login name already exist
+   you are on the home page              2023-07-27 14:10:10               step passed
+   nagivate to login page              2023-07-27 14:10:11               step passed
+   verify user is on login page              2023-07-27 14:10:11               step passed
+   user click on register account radio button              2023-07-27 14:10:12               step passed
+   clicks on continue button              2023-07-27 14:10:12               step passed
+   verify user is on registration page              2023-07-27 14:10:12               step passed
+   user enters first name "ruddrseshe"              2023-07-27 14:10:12               step passed
+   user enters last name "tiswdarie"              2023-07-27 14:10:12               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 14:10:12               step passed
+   user enters telephone "344333324334"              2023-07-27 14:10:12               step passed
+   user enters fax "asdsrd"              2023-07-27 14:10:13               step passed
+   user enters company "jrsido"              2023-07-27 14:10:13               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 14:10:13               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 14:10:13               step passed
+   user enters city "hfsdrfs"              2023-07-27 14:10:13               step passed
+   user selects country "India"              2023-07-27 14:10:16               step passed
+   user selects state "Maharashtra"              2023-07-27 14:10:16               step passed
+   user enters ZIP code "432782468"              2023-07-27 14:10:16               step passed
+   user enters login name "rudwar"              2023-07-27 14:10:16               step passed
+   user enters password "rudswar"              2023-07-27 14:10:16               step passed
+   user enters confirm password "rudswar"              2023-07-27 14:10:16               step passed
+   user checks the check box              2023-07-27 14:10:17               step passed
+   verify user check the check box              2023-07-27 14:10:17               step passed
+   click on continue button              2023-07-27 14:10:17               step passed
+   user should get unavaliable loginname error              2023-07-27 14:10:17               step passed
+   to verify user get unavaliable login name if login name already exist                 2023-07-27 14:10:17                  Passed
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 14:10:21               step passed
+   nagivate to login page              2023-07-27 14:10:23               step passed
+   verify user is on login page              2023-07-27 14:10:23               step passed
+   user click on register account radio button              2023-07-27 14:10:23               step passed
+   clicks on continue button              2023-07-27 14:10:23               step passed
+   verify user is on registration page              2023-07-27 14:10:23               step passed
+   user enters first name "ruddrseshe"              2023-07-27 14:10:23               step passed
+   user enters last name "tiswdarie"              2023-07-27 14:10:24               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 14:10:24               step passed
+   user enters telephone "344333324334"              2023-07-27 14:10:24               step passed
+   user enters fax "asdsrd"              2023-07-27 14:10:24               step passed
+   user enters company "jrsido"              2023-07-27 14:10:24               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 14:10:24               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 14:10:24               step passed
+   user enters city "hfsdrfs"              2023-07-27 14:10:24               step passed
+   user selects country "India"              2023-07-27 14:10:27               step passed
+   user selects state "Maharashtra"              2023-07-27 14:10:27               step passed
+   user enters ZIP code "432782468"              2023-07-27 14:10:27               step passed
+   user enters login name "rudwar"              2023-07-27 14:10:27               step passed
+   user enters password "rudswar"              2023-07-27 14:10:28               step passed
+   user enters confirm password "rudswar"              2023-07-27 14:10:28               step passed
+   click on continue button              2023-07-27 14:10:28               step passed
+   verify user should get agree privay policy error              2023-07-27 14:10:28               step passed
+   to verify user get the error if user has not checked the privacy checkbox                 2023-07-27 14:10:28                  Passed
+to verify user gets password mismatch error on entering diffrent pasword and confirm pasword
+   you are on the home page              2023-07-27 15:55:08               step passed
+   nagivate to login page              2023-07-27 15:55:09               step passed
+   verify user is on login page              2023-07-27 15:55:09               step passed
+   user click on register account radio button              2023-07-27 15:55:10               step passed
+   clicks on continue button              2023-07-27 15:55:11               step passed
+   verify user is on registration page              2023-07-27 15:55:11               step passed
+   user enters first name "ruddreshe"              2023-07-27 15:55:11               step passed
+   user enters last name "tiwdarie"              2023-07-27 15:55:11               step passed
+   user enters Email "rudresedrh@gmail.com"              2023-07-27 15:55:11               step passed
+   user enters telephone "34433334324334"              2023-07-27 15:55:12               step passed
+   user enters fax "asdrd"              2023-07-27 15:55:12               step passed
+   user enters company "jrido"              2023-07-27 15:55:12               step passed
+   user enters first address "shdhsddksafhradsbfjhsd"              2023-07-27 15:55:12               step passed
+   user enters second address  "ddsjnfksdjnfkjsdndnrfjnsd"              2023-07-27 15:55:13               step passed
+   user enters city "hfsdrfs"              2023-07-27 15:55:13               step passed
+   user selects country "India"              2023-07-27 15:55:16               step passed
+   user selects state "Maharashtra"              2023-07-27 15:55:16               step passed
+   user enters ZIP code "432782468"              2023-07-27 15:55:17               step passed
+   user enters login name "rudwar"              2023-07-27 15:55:17               step passed
+   user enters password "rudar"              2023-07-27 15:55:17               step passed
+   user enters confirm password "rudwar"              2023-07-27 15:55:17               step passed
+   user checks the check box              2023-07-27 15:55:17               step passed
+   verify user check the check box              2023-07-27 15:55:17               step passed
+   click on continue button              2023-07-27 15:55:18               step passed
+   to verify user gets password mismatch error on entering diffrent pasword and confirm pasword            2023-07-27 15:55:18              Failed          invalid username and password.
+<"×\n" + "Password confirmation does not match password!"> expected but was
+<"×\n" + "Error: E-Mail Address is already registered!">.
+
+diff:
+  ×
+- Password confirmation does not match password!
++ Error: E-Mail Address is already registered!
+to verify user is able to create account   with validate credentials
+   you are on the home page              2023-07-27 15:55:24               step passed
+   nagivate to login page              2023-07-27 15:55:26               step passed
+   verify user is on login page              2023-07-27 15:55:26               step passed
+   user click on register account radio button              2023-07-27 15:55:26               step passed
+   clicks on continue button              2023-07-27 15:55:27               step passed
+   verify user is on registration page              2023-07-27 15:55:27               step passed
+   user enters first name "ruddrseshe"              2023-07-27 15:55:27               step passed
+   user enters last name "tiswdarie"              2023-07-27 15:55:27               step passed
+   user enters Email "rudrh@gmail.com"              2023-07-27 15:55:27               step passed
+   user enters telephone "344333324334"              2023-07-27 15:55:28               step passed
+   user enters fax "asdsrd"              2023-07-27 15:55:28               step passed
+   user enters company "jrsido"              2023-07-27 15:55:28               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 15:55:28               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 15:55:28               step passed
+   user enters city "hfsdrfs"              2023-07-27 15:55:28               step passed
+   user selects country "India"              2023-07-27 15:55:32               step passed
+   user selects state "Maharashtra"              2023-07-27 15:55:32               step passed
+   user enters ZIP code "432782468"              2023-07-27 15:55:32               step passed
+   user enters login name "rudwar"              2023-07-27 15:55:32               step passed
+   user enters password "rudswar"              2023-07-27 15:55:32               step passed
+   user enters confirm password "rudswar"              2023-07-27 15:55:32               step passed
+   user checks the check box              2023-07-27 15:55:33               step passed
+   verify user check the check box              2023-07-27 15:55:33               step passed
+   click on continue button              2023-07-27 15:55:33               step passed
+   to verify user is able to create account   with validate credentials                 2023-07-27 15:55:33                  Passed
+to verify user get unavaliable login name if login name already exist
+   you are on the home page              2023-07-27 15:55:39               step passed
+   nagivate to login page              2023-07-27 15:55:41               step passed
+   verify user is on login page              2023-07-27 15:55:41               step passed
+   user click on register account radio button              2023-07-27 15:55:41               step passed
+   clicks on continue button              2023-07-27 15:55:42               step passed
+   verify user is on registration page              2023-07-27 15:55:42               step passed
+   user enters first name "ruddrseshe"              2023-07-27 15:55:42               step passed
+   user enters last name "tiswdarie"              2023-07-27 15:55:43               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 15:55:43               step passed
+   user enters telephone "344333324334"              2023-07-27 15:55:43               step passed
+   user enters fax "asdsrd"              2023-07-27 15:55:43               step passed
+   user enters company "jrsido"              2023-07-27 15:55:43               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 15:55:44               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 15:55:44               step passed
+   user enters city "hfsdrfs"              2023-07-27 15:55:44               step passed
+   user selects country "India"              2023-07-27 15:55:47               step passed
+   user selects state "Maharashtra"              2023-07-27 15:55:47               step passed
+   user enters ZIP code "432782468"              2023-07-27 15:55:48               step passed
+   user enters login name "rudwar"              2023-07-27 15:55:48               step passed
+   user enters password "rudswar"              2023-07-27 15:55:48               step passed
+   user enters confirm password "rudswar"              2023-07-27 15:55:48               step passed
+   user checks the check box              2023-07-27 15:55:48               step passed
+   verify user check the check box              2023-07-27 15:55:48               step passed
+   click on continue button              2023-07-27 15:55:48               step passed
+   user should get unavaliable loginname error              2023-07-27 15:55:49               step passed
+   to verify user get unavaliable login name if login name already exist                 2023-07-27 15:55:49                  Passed
+to verify user get the error if user has not checked the privacy checkbox
+   you are on the home page              2023-07-27 15:55:55               step passed
+   nagivate to login page              2023-07-27 15:55:57               step passed
+   verify user is on login page              2023-07-27 15:55:57               step passed
+   user click on register account radio button              2023-07-27 15:55:57               step passed
+   clicks on continue button              2023-07-27 15:55:58               step passed
+   verify user is on registration page              2023-07-27 15:55:58               step passed
+   user enters first name "ruddrseshe"              2023-07-27 15:55:59               step passed
+   user enters last name "tiswdarie"              2023-07-27 15:55:59               step passed
+   user enters Email "rudresedsrh@gmail.com"              2023-07-27 15:55:59               step passed
+   user enters telephone "344333324334"              2023-07-27 15:55:59               step passed
+   user enters fax "asdsrd"              2023-07-27 15:55:59               step passed
+   user enters company "jrsido"              2023-07-27 15:56:00               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 15:56:00               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 15:56:00               step passed
+   user enters city "hfsdrfs"              2023-07-27 15:56:00               step passed
+   user selects country "India"              2023-07-27 15:56:03               step passed
+   user selects state "Maharashtra"              2023-07-27 15:56:04               step passed
+   user enters ZIP code "432782468"              2023-07-27 15:56:04               step passed
+   user enters login name "rudwar"              2023-07-27 15:56:04               step passed
+   user enters password "rudswar"              2023-07-27 15:56:04               step passed
+   user enters confirm password "rudswar"              2023-07-27 15:56:04               step passed
+   click on continue button              2023-07-27 15:56:05               step passed
+   verify user should get agree privay policy error              2023-07-27 15:56:05               step passed
+   to verify user get the error if user has not checked the privacy checkbox                 2023-07-27 15:56:05                  Passed
+to verify user is gets already registered mail error message in email exist in system
+   you are on the home page              2023-07-27 16:06:48               step passed
+   nagivate to login page              2023-07-27 16:06:50               step passed
+   verify user is on login page              2023-07-27 16:06:50               step passed
+   user click on register account radio button              2023-07-27 16:06:50               step passed
+   clicks on continue button              2023-07-27 16:06:51               step passed
+   verify user is on registration page              2023-07-27 16:06:51               step passed
+   user enters first name "ruddrsesche"              2023-07-27 16:06:51               step passed
+   user enters last name "tiswdacrie"              2023-07-27 16:06:51               step passed
+   user enters Email "rudresh@gmail.com"              2023-07-27 16:06:51               step passed
+   user enters telephone "3443333324334"              2023-07-27 16:06:52               step passed
+   user enters fax "ascdsrd"              2023-07-27 16:06:52               step passed
+   user enters company "jrsicdo"              2023-07-27 16:06:52               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 16:06:52               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 16:06:52               step passed
+   user enters city "hfsdrfs"              2023-07-27 16:06:52               step passed
+   user selects country "India"              2023-07-27 16:06:56               step passed
+   user selects state "Maharashtra"              2023-07-27 16:06:56               step passed
+   user enters ZIP code "432782468"              2023-07-27 16:06:56               step passed
+   user enters login name "rudewar"              2023-07-27 16:06:56               step passed
+   user enters password "rudewar"              2023-07-27 16:06:56               step passed
+   user enters confirm password "rudewar"              2023-07-27 16:06:56               step passed
+   user checks the check box              2023-07-27 16:06:57               step passed
+   verify user check the check box              2023-07-27 16:06:57               step passed
+   click on continue button              2023-07-27 16:06:57               step passed
+   to verify user is gets already registered mail error message in email exist in system            2023-07-27 16:06:57              Failed          invalid username and password.
+<"×\n" + "Error: You must agree to the Privacy Policy!"> expected but was
+<"×\n" + "Error: E-Mail Address is already registered!">.
+
+diff:
+  ×
+- Error: You must agree to the Privacy Policy!
++ Error: E-Mail Address is already registered!
+to verify user is gets already registered mail error message in email exist in system
+   you are on the home page              2023-07-27 16:07:56               step passed
+   nagivate to login page              2023-07-27 16:07:57               step passed
+   verify user is on login page              2023-07-27 16:07:57               step passed
+   user click on register account radio button              2023-07-27 16:07:58               step passed
+   clicks on continue button              2023-07-27 16:07:59               step passed
+   verify user is on registration page              2023-07-27 16:07:59               step passed
+   user enters first name "ruddrsesche"              2023-07-27 16:07:59               step passed
+   user enters last name "tiswdacrie"              2023-07-27 16:07:59               step passed
+   user enters Email "rudresh@gmail.com"              2023-07-27 16:07:59               step passed
+   user enters telephone "3443333324334"              2023-07-27 16:08:00               step passed
+   user enters fax "ascdsrd"              2023-07-27 16:08:00               step passed
+   user enters company "jrsicdo"              2023-07-27 16:08:00               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-27 16:08:00               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-27 16:08:00               step passed
+   user enters city "hfsdrfs"              2023-07-27 16:08:00               step passed
+   user selects country "India"              2023-07-27 16:08:03               step passed
+   user selects state "Maharashtra"              2023-07-27 16:08:04               step passed
+   user enters ZIP code "432782468"              2023-07-27 16:08:04               step passed
+   user enters login name "rudewar"              2023-07-27 16:08:04               step passed
+   user enters password "rudewar"              2023-07-27 16:08:04               step passed
+   user enters confirm password "rudewar"              2023-07-27 16:08:04               step passed
+   user checks the check box              2023-07-27 16:08:04               step passed
+   verify user check the check box              2023-07-27 16:08:04               step passed
+   click on continue button              2023-07-27 16:08:05               step passed
+   verify user gets mail already registered error message              2023-07-27 16:08:06               step passed
+   to verify user is gets already registered mail error message in email exist in system                 2023-07-27 16:08:06                  Passed
+to verify user gets enter first name error if user doesnot enter first name
+   you are on the home page              2023-07-28 12:20:41               step passed
+   nagivate to login page              2023-07-28 12:20:42               step passed
+   verify user is on login page              2023-07-28 12:20:42               step passed
+   user click on register account radio button              2023-07-28 12:20:42               step passed
+   clicks on continue button              2023-07-28 12:20:43               step passed
+   verify user is on registration page              2023-07-28 12:20:43               step passed
+   user enters last name "tiswdadasdrie"              2023-07-28 12:20:43               step passed
+   user enters Email "rudfdsfrh@gmail.com"              2023-07-28 12:20:43               step passed
+   user enters telephone "34433321321324334"              2023-07-28 12:20:44               step passed
+   user enters fax "asddsfcsdsrd"              2023-07-28 12:20:44               step passed
+   user enters company "jrsvdsdido"              2023-07-28 12:20:44               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-28 12:20:44               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-28 12:20:44               step passed
+   user enters city "hfsdrfs"              2023-07-28 12:20:44               step passed
+   user selects country "India"              2023-07-28 12:20:47               step passed
+   user selects state "Maharashtra"              2023-07-28 12:20:48               step passed
+   user enters ZIP code "432782468"              2023-07-28 12:20:48               step passed
+   user enters login name "rudfdsdwar"              2023-07-28 12:20:48               step passed
+   user enters password "rudsdfwar"              2023-07-28 12:20:48               step passed
+   user enters confirm password "rudsdfwar"              2023-07-28 12:20:48               step passed
+   user checks the check box              2023-07-28 12:20:48               step passed
+   verify user check the check box              2023-07-28 12:20:48               step passed
+   click on continue button              2023-07-28 12:20:49               step passed
+   to verify user gets enter first name error if user doesnot enter first name            2023-07-28 12:20:49              Failed          invalid username and password.
+<"×\n" + "Error: E-Mail Address is already registered!"> expected but was
+<"×\n" + "First Name must be between 1 and 32 characters!">.
+
+diff:
+  ×
+- Error: E-Mail Address is already registered!
++ First Name must be between 1 and 32 characters!
+to verify user gets enter first name error if user doesnot enter first name
+   to verify user gets enter first name error if user doesnot enter first name            2023-07-28 12:22:52              Failed          Net::ReadTimeout with #<TCPSocket:(closed)>
+to verify user gets enter first name error if user doesnot enter first name
+   you are on the home page              2023-07-28 12:28:58               step passed
+   nagivate to login page              2023-07-28 12:28:59               step passed
+   verify user is on login page              2023-07-28 12:28:59               step passed
+   user click on register account radio button              2023-07-28 12:28:59               step passed
+   clicks on continue button              2023-07-28 12:29:00               step passed
+   verify user is on registration page              2023-07-28 12:29:00               step passed
+   user enters last name "tiswdadasdrie"              2023-07-28 12:29:00               step passed
+   user enters Email "rudfdsfrh@gmail.com"              2023-07-28 12:29:00               step passed
+   user enters telephone "34433321321324334"              2023-07-28 12:29:01               step passed
+   user enters fax "asddsfcsdsrd"              2023-07-28 12:29:01               step passed
+   user enters company "jrsvdsdido"              2023-07-28 12:29:01               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-28 12:29:01               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-28 12:29:01               step passed
+   user enters city "hfsdrfs"              2023-07-28 12:29:01               step passed
+   user selects country "India"              2023-07-28 12:29:05               step passed
+   user selects state "Maharashtra"              2023-07-28 12:29:05               step passed
+   user enters ZIP code "432782468"              2023-07-28 12:29:05               step passed
+   user enters login name "rudfdsdwar"              2023-07-28 12:29:05               step passed
+   user enters password "rudsdfwar"              2023-07-28 12:29:05               step passed
+   user enters confirm password "rudsdfwar"              2023-07-28 12:29:05               step passed
+   user checks the check box              2023-07-28 12:29:05               step passed
+   verify user check the check box              2023-07-28 12:29:05               step passed
+   click on continue button              2023-07-28 12:29:06               step passed
+   to verify user gets enter first name error if user doesnot enter first name            2023-07-28 12:29:06              Failed          invalid username and password.
+<"×\n" + "Error: E-Mail Address is already registered!"> expected but was
+<"×\n" + "First Name must be between 1 and 32 characters!">.
+
+diff:
+  ×
+- Error: E-Mail Address is already registered!
++ First Name must be between 1 and 32 characters!
+to verify user gets enter last name error if user doesnot enter last name
+   you are on the home page              2023-07-28 12:52:19               step passed
+   nagivate to login page              2023-07-28 12:52:21               step passed
+   verify user is on login page              2023-07-28 12:52:21               step passed
+   user click on register account radio button              2023-07-28 12:52:21               step passed
+   clicks on continue button              2023-07-28 12:52:21               step passed
+   verify user is on registration page              2023-07-28 12:52:22               step passed
+   user enters first name "tiswdadasdrie"              2023-07-28 12:52:22               step passed
+   user enters Email "rudfdsfrh@gmail.com"              2023-07-28 12:52:22               step passed
+   user enters telephone "34433321321324334"              2023-07-28 12:52:22               step passed
+   user enters fax "asddsfcsdsrd"              2023-07-28 12:52:22               step passed
+   user enters company "jrsvdsdido"              2023-07-28 12:52:22               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-28 12:52:22               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-28 12:52:22               step passed
+   user enters city "hfsdrfs"              2023-07-28 12:52:23               step passed
+   user selects country "India"              2023-07-28 12:52:26               step passed
+   user selects state "Maharashtra"              2023-07-28 12:52:26               step passed
+   user enters ZIP code "432782468"              2023-07-28 12:52:26               step passed
+   user enters login name "rudfdsdwar"              2023-07-28 12:52:26               step passed
+   user enters password "rudsdfwar"              2023-07-28 12:52:26               step passed
+   user enters confirm password "rudsdfwar"              2023-07-28 12:52:27               step passed
+   user checks the check box              2023-07-28 12:52:27               step passed
+   verify user check the check box              2023-07-28 12:52:27               step passed
+   click on continue button              2023-07-28 12:52:27               step passed
+   to verify user gets enter last name error if user doesnot enter last name            2023-07-28 12:52:27              Failed          invalid username and password.
+<"×\n" + "First Name must be between 1 and 32 characters!"> expected but was
+<"×\n" + "Last Name must be between 1 and 32 characters!">.
+
+diff:
+  ×
+- First Name must be between 1 and 32 characters!
+? ^^^
++ Last Name must be between 1 and 32 characters!
+? ^^
+to verify user gets enter last name error if user doesnot enter last name
+   you are on the home page              2023-07-28 12:53:20               step passed
+   nagivate to login page              2023-07-28 12:53:21               step passed
+   verify user is on login page              2023-07-28 12:53:21               step passed
+   user click on register account radio button              2023-07-28 12:53:21               step passed
+   clicks on continue button              2023-07-28 12:53:22               step passed
+   verify user is on registration page              2023-07-28 12:53:22               step passed
+   user enters first name "tiswdadasdrie"              2023-07-28 12:53:22               step passed
+   user enters Email "rudfdsfrh@gmail.com"              2023-07-28 12:53:22               step passed
+   user enters telephone "34433321321324334"              2023-07-28 12:53:23               step passed
+   user enters fax "asddsfcsdsrd"              2023-07-28 12:53:23               step passed
+   user enters company "jrsvdsdido"              2023-07-28 12:53:23               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-28 12:53:23               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-28 12:53:23               step passed
+   user enters city "hfsdrfs"              2023-07-28 12:53:23               step passed
+   user selects country "India"              2023-07-28 12:53:27               step passed
+   user selects state "Maharashtra"              2023-07-28 12:53:27               step passed
+   user enters ZIP code "432782468"              2023-07-28 12:53:27               step passed
+   user enters login name "rudfdsdwar"              2023-07-28 12:53:27               step passed
+   user enters password "rudsdfwar"              2023-07-28 12:53:27               step passed
+   user enters confirm password "rudsdfwar"              2023-07-28 12:53:27               step passed
+   user checks the check box              2023-07-28 12:53:27               step passed
+   verify user check the check box              2023-07-28 12:53:27               step passed
+   click on continue button              2023-07-28 12:53:28               step passed
+   to verify user gets enter last name error if user doesnot enter last name            2023-07-28 12:53:28              Failed          invalid username and password.
+<"×\n" + "First Name must be between 1 and 32 characters!"> expected but was
+<"×\n" + "Last Name must be between 1 and 32 characters!">.
+
+diff:
+  ×
+- First Name must be between 1 and 32 characters!
+? ^^^
++ Last Name must be between 1 and 32 characters!
+? ^^
+to verify user gets enter last name error if user doesnot enter last name
+   you are on the home page              2023-07-28 12:54:26               step passed
+   nagivate to login page              2023-07-28 12:54:28               step passed
+   verify user is on login page              2023-07-28 12:54:28               step passed
+   user click on register account radio button              2023-07-28 12:54:28               step passed
+   clicks on continue button              2023-07-28 12:54:29               step passed
+   verify user is on registration page              2023-07-28 12:54:29               step passed
+   user enters first name "tiswdadasdrie"              2023-07-28 12:54:29               step passed
+   user enters Email "rudfdsfrh@gmail.com"              2023-07-28 12:54:29               step passed
+   user enters telephone "34433321321324334"              2023-07-28 12:54:29               step passed
+   user enters fax "asddsfcsdsrd"              2023-07-28 12:54:30               step passed
+   user enters company "jrsvdsdido"              2023-07-28 12:54:30               step passed
+   user enters first address "shdhsfhradsbfjhsd"              2023-07-28 12:54:30               step passed
+   user enters second address  "ddsjnffjnsd"              2023-07-28 12:54:30               step passed
+   user enters city "hfsdrfs"              2023-07-28 12:54:30               step passed
+   user selects country "India"              2023-07-28 12:54:34               step passed
+   user selects state "Maharashtra"              2023-07-28 12:54:34               step passed
+   user enters ZIP code "432782468"              2023-07-28 12:54:34               step passed
+   user enters login name "rudfdsdwar"              2023-07-28 12:54:34               step passed
+   user enters password "rudsdfwar"              2023-07-28 12:54:34               step passed
+   user enters confirm password "rudsdfwar"              2023-07-28 12:54:34               step passed
+   user checks the check box              2023-07-28 12:54:34               step passed
+   verify user check the check box              2023-07-28 12:54:34               step passed
+   click on continue button              2023-07-28 12:54:35               step passed
+   verify user gets enter last name error              2023-07-28 12:54:35               step passed
+   to verify user gets enter last name error if user doesnot enter last name                 2023-07-28 12:54:35                  Passed

@@ -1,0 +1,10 @@
+to forgot password  is working  with validate credentials
+   you are on the home page              2023-07-25 15:12:51               step passed
+   nagivate to login page              2023-07-25 15:12:53               step passed
+   click  on the forgot password              2023-07-25 15:12:54               step passed
+   verify user is nagivated to forgot password page              2023-07-25 15:12:54               step passed
+   User enters username "Aswani"              2023-07-25 15:12:54               step passed
+   User enters the Email address "Aswani@gmail.com"              2023-07-25 15:12:54               step passed
+   clicks on continue button              2023-07-25 15:12:55               step passed
+   verify that mail has been sent to user successfully              2023-07-25 15:12:56               step passed
+   to forgot password  is working  with validate credentials                 2023-07-25 15:12:56                  Passed

@@ -1,0 +1,42 @@
+to verify login of the web page with validate credentials
+   you are on the home page              2023-07-25 15:22:13               step passed
+   nagivate to login page              2023-07-25 15:22:15               step passed
+   you entered the username "Aswani"              2023-07-25 15:22:15               step passed
+   you entered the password "Aswani"              2023-07-25 15:22:15               step passed
+   click on the login button              2023-07-25 15:22:16               step passed
+   verify login home page              2023-07-25 15:22:17               step passed
+   to verify login of the web page with validate credentials                 2023-07-25 15:22:17                  Passed
+to verify login of the web page with invalidate credentials
+   you are on the home page              2023-07-25 15:22:25               step passed
+   nagivate to login page              2023-07-25 15:22:26               step passed
+   you entered the username "Awani"              2023-07-25 15:22:27               step passed
+   you entered the password "Awani"              2023-07-25 15:22:27               step passed
+   click on the login button              2023-07-25 15:22:28               step passed
+   verify you get invalide username and password error              2023-07-25 15:22:28               step passed
+   to verify login of the web page with invalidate credentials                 2023-07-25 15:22:28                  Passed
+to verify login of the web page with invalidate credentials
+   you are on the home page              2023-07-25 15:22:37               step passed
+   nagivate to login page              2023-07-25 15:22:39               step passed
+   you entered the username "Aswani"              2023-07-25 15:22:39               step passed
+   you entered the password "Aswani3"              2023-07-25 15:22:39               step passed
+   click on the login button              2023-07-25 15:22:40               step passed
+   verify you get invalide username and password error              2023-07-25 15:22:41               step passed
+   to verify login of the web page with invalidate credentials                 2023-07-25 15:22:41                  Passed
+to verify login of the web page with invalidate credentials
+   you are on the home page              2023-07-25 15:22:48               step passed
+   nagivate to login page              2023-07-25 15:22:50               step passed
+   you entered the username "Aswani3"              2023-07-25 15:22:50               step passed
+   you entered the password "Aswani"              2023-07-25 15:22:50               step passed
+   click on the login button              2023-07-25 15:22:51               step passed
+   verify you get invalide username and password error              2023-07-25 15:22:51               step passed
+   to verify login of the web page with invalidate credentials                 2023-07-25 15:22:51                  Passed
+to verify login of the web page with invalidate credentials
+   you are on the home page              2023-07-25 15:23:00               step passed
+   nagivate to login page              2023-07-25 15:23:02               step passed
+   you entered the username ""              2023-07-25 15:23:02               step passed
+   you entered the password ""              2023-07-25 15:23:02               step passed
+   click on the login button              2023-07-25 15:23:03               step passed
+   verify you get invalide username and password error              2023-07-25 15:23:03               step passed
+   to verify login of the web page with invalidate credentials                 2023-07-25 15:23:03                  Passed
+to verify login of the web page with validate credentials
+   to verify login of the web page with validate credentials                 2023-07-26 11:29:42                  Passed
